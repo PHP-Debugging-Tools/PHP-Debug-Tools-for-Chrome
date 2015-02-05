@@ -1,2 +1,1 @@
-# PHP-Debug-Tools-Chrome
-PHP-Debug-Tools-Chrome
+# PHP Debugging Tools for Chrome
