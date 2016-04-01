@@ -1,1 +1,1 @@
-# PHP Debugging Tools for Chrome
+PHP Debug Tools for Chrome
